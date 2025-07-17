@@ -1,1 +1,8 @@
-{}
+{
+  "packageRules": [
+    {
+      "matchCategories": ["golang"],
+      "enabled": true
+    }
+  ]
+}
